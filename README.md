@@ -6,7 +6,6 @@ This example of adding a UITableView to a normal UIViewController creates a sort
 You can replicate this process with a UICollectionView inside a UIViewController as well.
 
 Comments are provided in the XcodeProject.
-
-<img src="UITableViewInUIViewController.png" alt="Final Result" style="width: 100px; height:100px;"/>
+<img src="UITableViewInUIViewController.png" alt="Final Result" width="100px;" height="100px;"/>
 
 ![Screenshot](UITableViewInUIViewController.png)
