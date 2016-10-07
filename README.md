@@ -7,6 +7,6 @@ You can replicate this process with a UICollectionView inside a UIViewController
 
 Comments are provided in the XcodeProject.
 
-<img src="UITableViewInUIViewController.png" alt="Final Result" style="width: 200px;"/>
+<img src="UITableViewInUIViewController.png" alt="Final Result" style="width: 100px; height:100px;"/>
 
 ![Screenshot](UITableViewInUIViewController.png)
