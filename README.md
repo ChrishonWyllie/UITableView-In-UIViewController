@@ -8,5 +8,5 @@ You can replicate this process with a UICollectionView inside a UIViewController
 Comments are provided in the XcodeProject.
 
 
-<img src="UITableViewInUIViewController.png" alt="Final Result" width="400px;" height="400px;"/>
+<img src="UITableViewInUIViewController.png" alt="Final Result" width="400px;" height="650px;"/>
 
